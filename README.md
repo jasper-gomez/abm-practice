@@ -1,2 +1,6 @@
-### ABM Practice
-Repository for learning ABM using Mesa.
+### Simulation Practice
+Repository for learning ABM and DES using Mesa and SimPy, respectively.
+
+---
+
+(c) All Rights Reserved.
